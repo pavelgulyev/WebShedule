@@ -9,7 +9,7 @@
 
 
 Скриншот рабочего окна приложения: 
-![Image alt]()
+![Image alt](https://github.com/pavelgulyev/WebShedule/blob/main/Регистрация.png)
 
 ## Зависимости
 Язык разработки Java. 
