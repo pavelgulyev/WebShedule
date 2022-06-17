@@ -26,4 +26,4 @@
 Загрузите исходные тексты или клонируйте их с помощью команды git clone в выбранный каталог: git clone [https://github.com/pavelgulyev/WebShedule.git](https://github.com/pavelgulyev/WebShedule.git) и создайте ветку
 
 ## Остальные ссылки
-[LICENSE]()
+[LICENSE](1)
